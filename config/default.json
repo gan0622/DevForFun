@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://j123:j123@devconnector.hfd4e.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://j123:j123@devconnector.hfd4e.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "MySecretToken"
 }
